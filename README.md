@@ -69,7 +69,3 @@ https://www.svgrepo.com/show/353655/discord-icon.svg"/>
 <p align="center">
   <img src="" />
 </p>
-
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31udlfy3xd6gl4juqjvvnytt22ua&count=5" />
-</p>
