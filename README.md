@@ -65,7 +65,3 @@ https://www.svgrepo.com/show/353655/discord-icon.svg"/>
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=ayondas120&theme=vision-friendly-dark" />
 </p>
-
-<p align="center">
-  <img src="" />
-</p>
